@@ -24,9 +24,9 @@ The toolkit emerges from **practice-based research**: scripts are developed, tes
   All functionality is implemented using REAPER’s native Lua scripting API
 
 This repository does **not** attempt to:
-- perform automatic speech recognition or alignment,
-- replace human editorial decisions,
-- function as a polished or stable software package.
+- perform automatic speech recognition or alignment
+- replace human editorial decisions
+- function as a polished or stable software package
 
 ---
 
@@ -51,10 +51,10 @@ This repository is not a finalized research artifact.
 It documents scripts that are actively used, tested, and modified in professional audiobook editing workflows.
 
 Changes may include:
-- parameter tuning (e.g. pacing ranges),
-- refactoring for clarity and robustness,
-- addition or removal of scripts,
-- reorganization of the folder structure.
+- parameter tuning (e.g. pacing ranges)
+- refactoring for clarity and robustness
+- addition or removal of scripts
+- reorganization of the folder structure
 
 If a stable methodological state is reached, a tagged snapshot may be created for reference.
 
@@ -63,7 +63,7 @@ If a stable methodological state is reached, a tagged snapshot may be created fo
 ## Intended Audience
 
 This repository is intended for:
-- researchers and students interested in **practice-based tool development** for audio production,
-- audiobook editors working with REAPER and Lua scripting,
+- researchers and students interested in **practice-based tool development** for audio production
+- audiobook editors working with REAPER and Lua scripting
 - reviewers evaluating research portfolios
 
