@@ -1,5 +1,5 @@
 -- @description setgap_sentence: set silence gap to randomized duration (800–900 ms)
--- @author Pablo Gallegos
+-- @author Pablo Gallegos Noreña
 
 -- ---------- CONFIG ----------
 MIN_GAP = 0.800
