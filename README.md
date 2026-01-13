@@ -21,7 +21,7 @@ The toolkit emerges from **practice-based research**: scripts are developed, tes
   Scripts encode workflows that have proven effective in real audiobook production.
 
 - **DAW-native integration**  
-  All functionality is implemented using REAPER’s native Lua scripting API, without external dependencies.
+  All functionality is implemented using REAPER’s native Lua scripting API
 
 This repository does **not** attempt to:
 - perform automatic speech recognition or alignment,
