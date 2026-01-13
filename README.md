@@ -1,8 +1,8 @@
 # reaper-audiobook-toolkit
 
-⚠️ **Work in Progress (Practice-Based Research Toolkit)**  
+⚠️ **Work in Progress**  
 This repository documents an evolving set of REAPER/Lua scripts developed in professional audiobook editing practice.  
-The codebase is **not frozen** and may change as workflows, constraints, and editorial strategies evolve.
+The codebase is **not frozen** and may change as editorial strategies evolve.
 
 ---
 
