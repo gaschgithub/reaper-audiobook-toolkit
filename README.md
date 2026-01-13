@@ -32,7 +32,7 @@ This repository does **not** attempt to:
 
 ## Included Scripts (current)
 
-- **`regionnamer2.lua`**  
+- **`regionnamer.lua`**  
   Assists in the preparation of pickup sessions by automatically naming regions based on nearby error markers (e.g. POZOTRON-detected issues), following audiobook post-production conventions.
 
 - **`move_random_sentence.lua`**  
