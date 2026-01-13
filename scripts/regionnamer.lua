@@ -1,7 +1,7 @@
 -- @description regionnamer: create pickup region named from markers inside time selection
 -- @author Pablo Gallegos Noreña
 
--- ---------- CONFIGURACIÓN ----------
+-- ---------- CONFIG ----------
 WIN_SEC = 600     -- ventana de búsqueda (segs)
 PREFIX  = ""      -- prefijo opcional de narrador (ej. "C"), para libros multinarrador
 
