@@ -1,4 +1,4 @@
-## Included Scripts (current)
+Scripts (current)
 
 - **`regionnamer.lua`**  
   Assists in the preparation of pickup sessions by automatically naming regions based on nearby error markers, following audiobook post-production conventions.
