@@ -2,10 +2,10 @@
 -- @author Pablo Gallegos Noreña
 
 -- ---------- CONFIG ----------
-WIN_SEC = 600     -- ventana de búsqueda (segs)
+WIN_SEC = 600     -- search window (segs)
 PREFIX  = ""      -- prefijo opcional de narrador (ej. "C"), para libros multinarrador
 
--- ---------- TEXTO ----------
+-- ---------- TEXT ----------
 local function trim(s)
   if not s or s == "" then return "" end
   return (s:match("^%s*(.-)%s*$") or "")
@@ -35,7 +35,7 @@ local function tok(name)
   return nil
 end
 
--- ---------- MARCADORES ----------
+-- ---------- MARKERS ----------
 local function all_marks()
   local out = {}
   local _, nm, nr = reaper.CountProjectMarkers(0)
@@ -108,7 +108,7 @@ local function dup(base_t, base_k, a, b)
   return c, has_f
 end
 
--- ---------- NOMBRE ----------
+-- ---------- NAME ----------
 local function letter(i)
   if i < 1 or i > 26 then return "" end
   return string.char(96 + i) -- 1 -> a
