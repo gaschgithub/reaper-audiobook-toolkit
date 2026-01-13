@@ -35,10 +35,10 @@ This repository does **not** attempt to:
 - **`regionnamer.lua`**  
   Assists in the preparation of pickup sessions by automatically naming regions based on nearby error markers, following audiobook post-production conventions.
 
-- **`move_random_sentence.lua`**  
+- **`setgap_sentence.lua`**  
   Repaces short silence gaps (≈800–900 ms) between adjacent narration items using controlled randomness to preserve natural speech flow.
 
-- **`move_random_paragraph.lua`**  
+- **`setgap_paragraph.lua`**  
   Repaces longer paragraph-level gaps (≈1240–1380 ms).
 
 ---
