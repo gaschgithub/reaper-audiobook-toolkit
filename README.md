@@ -43,6 +43,11 @@ This repository does **not** attempt to:
   Repaces longer paragraph-level gaps (≈1240–1380 ms).
        <sub>_- collaboration with Christian Giovanni Trejo Arellano_<sub>
 
+### Future Scripts (⚠️ in Progress)
+
+- **`auto_pickup.lua`**
+  Reading all error markers' titles per pickup session, finds each error within the book script, highlights the each error's sentence and exports all PDF pages with pickup annotations.
+
 ---
 
 ## Project Status
