@@ -24,9 +24,9 @@ The toolkit emerges from **practice-based research**: scripts are developed, tes
   All functionality is implemented using REAPER’s native Lua scripting API
 
 This repository does **not** attempt to:
-- perform automatic speech recognition or alignment
-- replace human editorial decisions
-- function as a polished or stable software package
+- perform automatic speech recognition or alignment (yet)
+- replace human editorial decisions (yet)
+- function as a polished or stable software package (final step)
 
 ---
 
