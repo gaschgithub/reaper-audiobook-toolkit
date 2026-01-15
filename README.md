@@ -11,7 +11,7 @@ This repository contains a small toolkit of Lua scripts designed to support **lo
 
 Rather than aiming for full automation or commercial plugin development, the scripts formalize **recurrent editorial decisions**—such as pacing adjustments and pickup preparation—into transparent procedures that can be repeatedly applied across large projects.
 
-The toolkit emerges from **practice-based research**: scripts are developed, tested, and refined directly within real audiobook production contexts, responding to platform constraints (e.g. pacing guidelines) and perceptual considerations (e.g. naturalness of speech timing).
+The toolkit emerges from **practice-based research**: scripts are developed, tested, and refined directly within real audiobook production contexts (editorials such as HarperCollins and Penguin Random House), responding to platform constraints (e.g. pacing guidelines) and perceptual considerations (e.g. naturalness of speech timing).
 
 ---
 
