@@ -37,11 +37,11 @@ This repository does **not** attempt to:
 
 - **`setgap_sentence.lua`**  
   Repaces short silence gaps (≈800–900 ms) between adjacent narration items using controlled randomness to preserve natural speech flow.
-  _with Lic. Christian Giovanni Trejo Arellano
+  _with Christian Giovanni Trejo Arellano_
 
 - **`setgap_paragraph.lua`**  
   Repaces longer paragraph-level gaps (≈1240–1380 ms).
-  _with Lic. Christian Giovanni Trejo Arellano
+  _with Christian Giovanni Trejo Arellano_
 
 ---
 
