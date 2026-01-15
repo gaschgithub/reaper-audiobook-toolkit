@@ -46,7 +46,7 @@ This repository does **not** attempt to:
 ### Future Scripts (⚠️ in Progress)
 
 - **`auto_pickup.lua`**
-  After reading all error markers per pickup session, the script finds each error within the book script, highlights the each error's sentence and exports all PDF pages with pickup annotations, as well as .mp3 pickup reference files (calls Python from Lua for PDF management).
+  After reading all error markers per pickup session, the script finds each error within the book script, highlights each error's sentence and exports all PDF pages with pickup annotations, as well as .mp3 pickup reference files (calls Python from Lua for PDF management).
 
 ---
 
