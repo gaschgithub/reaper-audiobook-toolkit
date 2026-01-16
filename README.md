@@ -63,7 +63,7 @@ Changes may include:
 - addition or removal of scripts
 - reorganization of the folder structure
 
-If a stable methodological state is reached, a tagged snapshot may be created for reference.
+A tagged snapshot will be created for reference in the near future.
 
 ---
 
