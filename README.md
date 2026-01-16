@@ -57,7 +57,7 @@ This repository does **not yet** attempt to:
 This repository is not a finalized research artifact.  
 It documents scripts that are actively used, tested, and modified in professional audiobook editing workflows.
 
-Changes may include:
+Changes include:
 - parameter tuning
 - refactoring of scripts
 - addition/removal of tools
