@@ -52,7 +52,7 @@ This repository does **not yet** attempt to:
 
 ## Project Status
 
-**Status:** Work in Progress / Ongoing Practice-Based Development
+⚠️ Work in Progress 
 
 This repository is not a finalized research artifact.  
 It documents scripts that are actively used, tested, and modified in professional audiobook editing workflows.
