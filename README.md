@@ -58,9 +58,9 @@ This repository is not a finalized research artifact.
 It documents scripts that are actively used, tested, and modified in professional audiobook editing workflows.
 
 Changes may include:
-- parameter tuning (e.g. pacing ranges)
-- refactoring for clarity and robustness
-- addition or removal of scripts
+- parameter tuning
+- refactoring of scripts
+- addition/removal of tools
 - reorganization of the folder structure
 
 A tagged snapshot will be created for reference in the near future.
