@@ -50,7 +50,7 @@ This repository does **not yet** attempt to:
 
 ---
 
-## Project Status
+## Status
 
 ⚠️ Work in Progress 
 
@@ -67,7 +67,7 @@ A tagged snapshot will be created for reference in the near future.
 
 ---
 
-## Intended Audience
+## Audience
 
 This repository is intended for:
 - researchers and students interested in **practice-based tool development** for audio production
